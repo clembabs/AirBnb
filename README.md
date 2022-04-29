@@ -7,10 +7,12 @@ The Figma design [My Cloned Airbnb Figma from Scrimba was used](https://www.figm
 
 
 # Design
-![Uploading Screenshot 2022-04-29 at 8.13.00 AM.png…](Scrimb Figma Design)
+[Scrimb Figma Design]
+<img width="359" alt="Screenshot 2022-04-29 at 8 15 45 AM" src="https://user-images.githubusercontent.com/49677898/165900209-95fbf227-80c0-4f2d-bfa5-89762f3a25e4.png">
 
 # Screenshot
-![Uploading Screenshot 2022-04-29 at 8.13.46 AM.png…](Work Screenshot)
+[Work Screenshot]
+<img width="421" alt="Screenshot 2022-04-29 at 8 16 27 AM" src="https://user-images.githubusercontent.com/49677898/165900295-5e00fe58-715c-43b1-96ee-fe08bfd77ddf.png">
 
 
 
